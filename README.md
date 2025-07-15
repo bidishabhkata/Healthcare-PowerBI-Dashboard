@@ -8,7 +8,6 @@ This project analyzes a healthcare dataset using Power BI to uncover trends in p
 ##  Project Details
 
 - Tool Used: Power BI  
-- Data Source: [Insert name of Excel/CSV or say “Internally provided dataset”]  
 - File Name: `healthcare.pbix`  
 - Dashboard Features:
   - KPI cards: Avg. cost, length of stay, total admissions
@@ -17,7 +16,7 @@ This project analyzes a healthcare dataset using Power BI to uncover trends in p
 
 ---
 
-## 💡 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning and Transformation (Power Query)
 - Data Modeling and Relationships
@@ -44,5 +43,7 @@ This project analyzes a healthcare dataset using Power BI to uncover trends in p
 
 
 ##  Dashboard Preview
+<img width="1324" height="739" alt="Snapshot of the dashboard" src="https://github.com/user-attachments/assets/b7ff0b4f-3490-45f4-99b5-f2b75c00496f" />
+
 
 
